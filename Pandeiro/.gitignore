@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+_gc.*
+_t.*
+_view.maxpat
+.winid
+ref_wav/
+ref_*/
+docs/strokes_ab.wav
+docs/*_ab.wav
+docs/*_ab_before.wav
+docs/compare/
+tests/_t.*
+tests/_tail_*.json
+m4l/_gc.*
