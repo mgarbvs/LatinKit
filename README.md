@@ -22,38 +22,38 @@ Synthesized Latin percussion for Ableton Live: Max for Live instruments whose so
 
 Each folder's README has the note map, the controls and the notes on how the model was fitted.
 
-## Panels
+## Panels and sounds
 
-Each device as it looks in Live's device view.
+Each device as it looks in Live's device view. Each ▶ link plays its demo (MP3) in your browser; GitHub can't play audio inside a README.
 
 <table>
 <tr>
-<td align="center"><img src="images/agogo.png" width="230" alt="Agogo panel in Live"><br>Agogo</td>
-<td align="center"><img src="images/bongo.png" width="230" alt="Bongo panel in Live"><br>Bongo</td>
+<td align="center"><img src="images/agogo.png" width="230" alt="Agogo panel in Live"><br>Agogo · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/agogo.mp3">▶ listen</a></td>
+<td align="center"><img src="images/bongo.png" width="230" alt="Bongo panel in Live"><br>Bongo · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/bongo.mp3">▶ listen</a></td>
 </tr>
 <tr>
-<td align="center"><img src="images/caxixi.png" width="230" alt="Caxixi panel in Live"><br>Caxixi</td>
-<td align="center"><img src="images/conga.png" width="365" alt="Conga panel in Live"><br>Conga</td>
+<td align="center"><img src="images/caxixi.png" width="230" alt="Caxixi panel in Live"><br>Caxixi · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/caxixi.mp3">▶ listen</a></td>
+<td align="center"><img src="images/conga.png" width="365" alt="Conga panel in Live"><br>Conga · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/conga.mp3">▶ listen</a></td>
 </tr>
 <tr>
-<td align="center"><img src="images/cuica.png" width="275" alt="Cuica panel in Live"><br>Cuica</td>
-<td align="center"><img src="images/ganza.png" width="230" alt="Ganzá panel in Live"><br>Ganzá</td>
+<td align="center"><img src="images/cuica.png" width="275" alt="Cuica panel in Live"><br>Cuica · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/cuica.mp3">▶ listen</a></td>
+<td align="center"><img src="images/ganza.png" width="230" alt="Ganzá panel in Live"><br>Ganzá · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/ganza.mp3">▶ listen</a></td>
 </tr>
 <tr>
-<td align="center"><img src="images/guiro.png" width="230" alt="Güiro panel in Live"><br>Güiro</td>
-<td align="center"><img src="images/pandeiro.png" width="230" alt="Pandeiro panel in Live"><br>Pandeiro</td>
+<td align="center"><img src="images/guiro.png" width="230" alt="Güiro panel in Live"><br>Güiro · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/guiro.mp3">▶ listen</a></td>
+<td align="center"><img src="images/pandeiro.png" width="230" alt="Pandeiro panel in Live"><br>Pandeiro · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/pandeiro.mp3">▶ listen</a></td>
 </tr>
 <tr>
-<td align="center"><img src="images/repinique.png" width="230" alt="Repinique panel in Live"><br>Repinique</td>
-<td align="center"><img src="images/shaker.png" width="230" alt="Shaker panel in Live"><br>Shaker</td>
+<td align="center"><img src="images/repinique.png" width="230" alt="Repinique panel in Live"><br>Repinique · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/repinique.mp3">▶ listen</a></td>
+<td align="center"><img src="images/shaker.png" width="230" alt="Shaker panel in Live"><br>Shaker · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/shaker.mp3">▶ listen</a></td>
 </tr>
 <tr>
-<td align="center"><img src="images/surdo.png" width="230" alt="Surdo panel in Live"><br>Surdo</td>
-<td align="center"><img src="images/timbales.png" width="230" alt="Timbales panel in Live"><br>Timbales</td>
+<td align="center"><img src="images/surdo.png" width="230" alt="Surdo panel in Live"><br>Surdo · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/surdo.mp3">▶ listen</a></td>
+<td align="center"><img src="images/timbales.png" width="230" alt="Timbales panel in Live"><br>Timbales · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/timbales.mp3">▶ listen</a></td>
 </tr>
 </table>
 
-The CR78's four pages:
+The CR78's four pages · <a href="https://raw.githubusercontent.com/mgarbvs/LatinKit/main/sounds/cr78.mp3">▶ listen</a>
 
 <p><img src="images/cr78-drums.png" alt="CR78 Drums page in Live"><br>Drums</p>
 <p><img src="images/cr78-latin.png" alt="CR78 Latin page in Live"><br>Latin</p>
